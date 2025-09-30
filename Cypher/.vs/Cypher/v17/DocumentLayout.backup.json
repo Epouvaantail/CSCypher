@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\CSCypher\\Cypher\\",
+  "WorkspaceRootPath": "D:\\Projects\\CSCypher\\CSCypher\\Cypher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43E6D4B3-FCAB-4D8B-BFA4-C9164BABE5E8}|ConsoleCypher\\ConsoleCypher.csproj|d:\\projects\\cscypher\\cypher\\consolecypher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43E6D4B3-FCAB-4D8B-BFA4-C9164BABE5E8}|ConsoleCypher\\ConsoleCypher.csproj|d:\\projects\\cscypher\\cscypher\\cypher\\consolecypher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43E6D4B3-FCAB-4D8B-BFA4-C9164BABE5E8}|ConsoleCypher\\ConsoleCypher.csproj|solutionrelative:consolecypher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,18 +59,17 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAAAVAAAAAAAAAAAmwBEVAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-30T09:28:51.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T09:28:51.402Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\CSCypher\\Cypher\\ConsoleCypher\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CSCypher\\CSCypher\\Cypher\\ConsoleCypher\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleCypher\\Program.cs",
-              "ToolTip": "D:\\Projects\\CSCypher\\Cypher\\ConsoleCypher\\Program.cs",
+              "ToolTip": "D:\\Projects\\CSCypher\\CSCypher\\Cypher\\ConsoleCypher\\Program.cs",
               "RelativeToolTip": "ConsoleCypher\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwGgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T07:36:45.315Z",
               "EditorCaption": ""

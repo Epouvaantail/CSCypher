@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleCypher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2099949f1a71f8057749b34324842611c3f0dbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleCypher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleCypher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

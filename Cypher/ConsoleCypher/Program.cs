@@ -28,7 +28,7 @@ namespace ConsoleCypher
                         break;
 
                     case "2":
-                        Console.WriteLine("test");
+                        DeCeasar();
                         break;
 
                     case "3":
@@ -36,7 +36,9 @@ namespace ConsoleCypher
                         break;
 
                     default:
+                        Console.Clear();
                         Console.WriteLine("Option invalide. Veuillez réessayer.");
+                        Task.Delay(3000).Wait();
                         break;
                 }
             }
@@ -65,6 +67,26 @@ namespace ConsoleCypher
 
             return result;
 
+        }
+
+        public static string DeCeasar()
+        {
+            Console.Write("Quel mot désirez-vous chiffrer ? \nMot:");
+            string? word = Console.ReadLine();
+            word = word!.ToLower();
+            Console.Clear();
+            for(int i = 0; i<27; i++)
+            {
+                string result = "";
+                foreach (char letter in word)
+                {
+                    result += DecalerLettre(letter, i);
+
+                }
+                Console.WriteLine("Votre mot chiffré:" + " " + result);
+            }
+            Task.Delay(5000).Wait();
+            return "result";
         }
 
         public static char DecalerLettre(char letter, int key)

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CSCypher\\Cypher\\ConsoleCypher\\ConsoleCypher.csproj",
+      "projectUniqueName": "D:\\Projects\\CSCypher\\CSCypher\\Cypher\\ConsoleCypher\\ConsoleCypher.csproj",
       "projectName": "ConsoleCypher",
-      "projectPath": "D:\\Projects\\CSCypher\\Cypher\\ConsoleCypher\\ConsoleCypher.csproj",
+      "projectPath": "D:\\Projects\\CSCypher\\CSCypher\\Cypher\\ConsoleCypher\\ConsoleCypher.csproj",
       "packagesPath": "C:\\Users\\couto\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\CSCypher\\Cypher\\ConsoleCypher\\obj\\",
+      "outputPath": "D:\\Projects\\CSCypher\\CSCypher\\Cypher\\ConsoleCypher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
