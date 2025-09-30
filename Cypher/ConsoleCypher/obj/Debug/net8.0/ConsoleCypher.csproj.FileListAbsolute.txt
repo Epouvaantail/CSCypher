@@ -1,0 +1,14 @@
+D:\Projects\CSCypher\Cypher\ConsoleCypher\bin\Debug\net8.0\ConsoleCypher.exe
+D:\Projects\CSCypher\Cypher\ConsoleCypher\bin\Debug\net8.0\ConsoleCypher.deps.json
+D:\Projects\CSCypher\Cypher\ConsoleCypher\bin\Debug\net8.0\ConsoleCypher.runtimeconfig.json
+D:\Projects\CSCypher\Cypher\ConsoleCypher\bin\Debug\net8.0\ConsoleCypher.dll
+D:\Projects\CSCypher\Cypher\ConsoleCypher\bin\Debug\net8.0\ConsoleCypher.pdb
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.AssemblyInfoInputs.cache
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.AssemblyInfo.cs
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.csproj.CoreCompileInputs.cache
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.dll
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\refint\ConsoleCypher.dll
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.pdb
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ConsoleCypher.genruntimeconfig.cache
+D:\Projects\CSCypher\Cypher\ConsoleCypher\obj\Debug\net8.0\ref\ConsoleCypher.dll
